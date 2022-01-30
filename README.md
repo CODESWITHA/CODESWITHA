@@ -3,11 +3,11 @@
 
 About Me </strong>
 <p>
-	• 👩🏾‍💻 I am currently learning the amazing language of JavaScript
+	• 👩🏾‍💻 I am currently learning the amazing language of<strong> JavaScript </strong>
   <br>
-	•🧠 I genuinely love learning new things t o expand my knowledge 
+	•🧠 I genuinely love learning new things & expanding my knowledge 
   <br>
-	• 👥 Open to connect, constructive feedback and collaborations
+	• 👥 Open to connect, receive constructive feedback 
   <br>
 •⭐ Fun fact: I read, I yoga, I love to drink smoothies
  

@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey!👋 I'm Adrienne, A Software Developer ⌨️�
+<strong> 
 
-<!--
-**CODESWITHA/CODESWITHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me </strong>
+<p>
+	• 👩🏾‍💻 I am currently learning the amazing language of JavaScript
+  <br>
+	•🧠 I genuinely love learning new things t o expand my knowledge 
+  <br>
+	• 👥 Open to connect, constructive feedback and collaborations
+  <br>
+•⭐ Fun fact: I read, I yoga, I love to drink smoothies
+ 
+  <br>
+  •💬Let me know if I can help you in anyway :)
+  </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

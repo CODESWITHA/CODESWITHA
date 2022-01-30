@@ -9,7 +9,7 @@ About Me </strong>
   <br>
 	• 👥 Open to connect, receive constructive feedback 
   <br>
-•⭐ Fun fact: I read, I yoga, I love to drink smoothies
+•⭐ Fun fact: I read, I yoga & I love to drink smoothies
  
   <br>
   •💬Let me know if I can help you in anyway :)

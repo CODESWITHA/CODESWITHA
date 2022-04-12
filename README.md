@@ -1,4 +1,4 @@
-### Hey!👋 I'm Adrienne, A Software Developer ⌨️
+### Hey!👋 I'm Adrienne, A Front-End Web Developer ⌨️
 <strong> 
 
 About Me </strong>
